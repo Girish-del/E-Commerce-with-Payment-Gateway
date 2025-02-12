@@ -1,0 +1,34 @@
+# Eclipse, IntelliJ IDEA, and VS Code project files
+/.idea/
+/.vscode/
+/*.iml
+*.ipr
+*.iws
+
+# Maven specific files
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Build directories
+/target/
+
+# Dependency directories
+# This is usually not needed unless you have specific local repositories
+/.m2/
+
+# Log files
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA caches
+.idea/*
+
+# Spring Boot specific files
+spring-boot-devtools.jar
+
+# User-specific files
+*.class
